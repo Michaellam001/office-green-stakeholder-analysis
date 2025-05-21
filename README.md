@@ -54,4 +54,4 @@ This exercise improves project communication, planning, and risk identification 
 
 ## 📎 License
 
-This project is for educational/demo purposes.
+MIT
