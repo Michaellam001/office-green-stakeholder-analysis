@@ -1,3 +1,10 @@
+## NOTICE ##
+📘 Project Summary: Plant Pals
+This project, Plant Pals, is part of the Google Project Management Certificate course on Coursera. I am showcasing it on my GitHub for practice and learning purposes only, and I do not claim original authorship or ownership of the project content or design.
+
+The purpose of uploading this project is to demonstrate my understanding of key project management concepts such as stakeholder analysis, RACI charts, and project planning as taught in the course. It also serves as a way to build familiarity with documenting and sharing work on GitHub.
+
+
 # Office Green: Plant Pals Stakeholder Analysis
 
 This repository contains a stakeholder analysis for the **Plant Pals** project, a new service being developed by Office Green. The goal of this analysis is to identify, assess, and strategize engagement with key stakeholders to ensure successful project execution.
