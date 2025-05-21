@@ -34,10 +34,29 @@ Stakeholders are mapped to a Power/Interest Grid to identify appropriate engagem
 | Keep Informed   | Existing Clients and Employees              | Inform as needed     |
 | Monitor         | Office Green Receptionist                   | Update before launch |
 
-A CSV version is available here: [`stakeholder_power_grid.csv`](stakeholder_power_grid.csv)
+A CSV version is available here: [`stakeholder_power_grid.csv`]([stakeholder_power_grid.csv](https://github.com/Michaellam001/office-green-stakeholder-analysis#:~:text=Green%20Stake%20Holder%20RACI%20Chart%20Matrix.xlsx))
 
 ---
+## 🗂 RACI Chart Overview
+The RACI chart is a responsibility assignment matrix we created to clarify stakeholder roles and responsibilities throughout the lifecycle of the Office Green project. It helps identify who is Responsible, Accountable, Consulted, and Informed for each major task or decision.
 
+Please See Documents Branch: Green Stake Holder RACI Chart Matrix.xlsx for diagram
+
+---
+🔍 RACI Roles Defined:
+
+Responsible (R): The person(s) who do the work to complete the task.
+
+Accountable (A): The one ultimately answerable for the correct completion of the task.
+
+Consulted (C): Those whose input is sought before a decision or action.
+
+Informed (I): Those who are kept up-to-date on progress or decisions.
+
+**This ensures alignment across team members and improves communication by setting clear expectations from the start**.
+---
+
+This RACI chart was used as part of the stakeholder analysis to ensure that each participant’s role was clearly understood and managed throughout the project
 ## 📂 File Descriptions
 
 - `stakeholder_analysis.md`: Text version of the stakeholder table
